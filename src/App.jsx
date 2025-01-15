@@ -7,6 +7,7 @@ import Paragraph from './components/paragraph/Paragraph'
 import PersonalCard from './components/personalcard/PersonalCard'
 // import Paragraph from './components/paragraph/Paragraph'
 import SimpleHeading from './components/simpleheading/SimpleHeading'
+import Test from './components/test/Test'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
      <Advantages/>
      <SimpleHeading/>
      <Footer/>
+     <Test/>
      
     </>
   )
