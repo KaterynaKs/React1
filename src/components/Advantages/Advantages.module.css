@@ -1,0 +1,15 @@
+.container{
+display: flex;
+width: 600px;
+margin: 10px auto;
+}
+
+.block{
+    padding: 5px;
+    width: 200px;
+    border: 1px solid red;   
+}
+
+h6{
+    border: 1px solid red;
+}
